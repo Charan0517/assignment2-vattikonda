@@ -6,8 +6,13 @@ My favorite game is **Cricket**. I like the **Indian team** in the cricket and u
 
 ---
 
-## Ordered and Unordered lists
-#### Indian team
+# Ordered and Unordered lists
+### Indian team
 1. Virat Kohli
 2. Rohith Sharma
 3. M.S Dhoni
+
+### other teams that I think would be good to watch play..
+* Australia
+* Newzland
+* England
