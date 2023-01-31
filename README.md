@@ -32,3 +32,13 @@ The tables in this section tells about the places that I would recommend someone
 | Japan | To experience the updated technology | 30 |
 | Maldives | To explore beautiful sceneries | 30 |
 
+---
+
+# Pithy Quotes sections
+> Do one thing everyday that scares you
+> 
+>> -*Roosevelt*
+>
+>Jhonny Jhonny yes pappa.
+>
+>> -*Tulsi kumar*
