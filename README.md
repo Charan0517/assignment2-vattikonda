@@ -18,3 +18,17 @@ My favorite game is **Cricket**. I like the **Indian team** in the cricket and u
 * England
 
 This link will give you the information about **[me](AboutMe.md)**
+
+---
+
+# Tables section
+
+The tables in this section tells about the places that I would recommend someone to vist. I going to include the 4 places names in the table along with the reason of why I recommed it and how many days I would spend in the place.
+
+| Name | Reason | Days spend |
+| --- | --- | --- |
+| India | Get to know different traditions and culture | 30 |
+| America | To Experience the high Economy | 30 |
+| Japan | To experience the updated technology | 30 |
+| Maldives | To explore beautiful sceneries | 30 |
+
