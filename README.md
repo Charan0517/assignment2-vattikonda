@@ -42,3 +42,23 @@ The tables in this section tells about the places that I would recommend someone
 >Jhonny Jhonny yes pappa.
 >
 >> -*Tulsi kumar*
+
+---
+
+# Code Fencing section
+> How do you post to an iframe?
+To check the answer visit this link <https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+To vist the snippet <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
+ 
